@@ -1,2 +1,2 @@
-# HM - A HashMap implementation
-A type generic hashmap for C.
+# GHM - A Generic HashMap
+An implementation of a type generic hashmap in C.
