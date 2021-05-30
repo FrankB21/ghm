@@ -1,3 +1,9 @@
+# VSCode
+.vscode/
+
+# Binaries
+**bin/
+
 # Prerequisites
 *.d
 
